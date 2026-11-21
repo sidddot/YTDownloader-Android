@@ -1,0 +1,48 @@
+
+> Task :tasks
+
+------------------------------------------------------------
+Tasks runnable from root project 'LocalDL'
+------------------------------------------------------------
+
+Build Setup tasks
+-----------------
+init - Initializes a new Gradle build.
+wrapper - Generates Gradle wrapper files.
+
+Help tasks
+----------
+buildEnvironment - Displays all buildscript dependencies declared in root project 'LocalDL'.
+app:buildEnvironment - Displays all buildscript dependencies declared in project ':app'.
+dependencies - Displays all dependencies declared in root project 'LocalDL'.
+app:dependencies - Displays all dependencies declared in project ':app'.
+dependencyInsight - Displays the insight into a specific dependency in root project 'LocalDL'.
+app:dependencyInsight - Displays the insight into a specific dependency in project ':app'.
+help - Displays a help message.
+app:help - Displays a help message.
+javaToolchains - Displays the detected java toolchains.
+app:javaToolchains - Displays the detected java toolchains.
+app:kotlinDslAccessorsReport - Prints the Kotlin code for accessing the currently available project extensions and conventions.
+outgoingVariants - Displays the outgoing variants of root project 'LocalDL'.
+app:outgoingVariants - Displays the outgoing variants of project ':app'.
+projects - Displays the sub-projects of root project 'LocalDL'.
+app:projects - Displays the sub-projects of project ':app'.
+properties - Displays the properties of root project 'LocalDL'.
+app:properties - Displays the properties of project ':app'.
+resolvableConfigurations - Displays the configurations that can be resolved in root project 'LocalDL'.
+app:resolvableConfigurations - Displays the configurations that can be resolved in project ':app'.
+tasks - Displays the tasks runnable from root project 'LocalDL' (some of the displayed tasks may belong to subprojects).
+app:tasks - Displays the tasks runnable from project ':app'.
+
+Other tasks
+-----------
+components - Displays the components produced by root project 'LocalDL'. [deprecated]
+app:components - Displays the components produced by project ':app'. [deprecated]
+dependentComponents - Displays the dependent components of components in root project 'LocalDL'. [deprecated]
+app:dependentComponents - Displays the dependent components of components in project ':app'. [deprecated]
+model - Displays the configuration model of root project 'LocalDL'. [deprecated]
+app:model - Displays the configuration model of project ':app'. [deprecated]
+prepareKotlinBuildScriptModel
+
+BUILD SUCCESSFUL in 2s
+1 actionable task: 1 executed
