@@ -4,3 +4,4 @@ build/
 local.properties
 *.iml
 *.apk
+java_pid7080.hprof
